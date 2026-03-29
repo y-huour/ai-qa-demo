@@ -1,5 +1,3 @@
-# ai-qa-demo
-“本地知识库问答机器人”
 # 本地知识库问答机器人
 
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
